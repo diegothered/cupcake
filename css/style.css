@@ -1,0 +1,13 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: aqua;
+  font-weight: bold;
+}
+
+body {
+  background-color: pink
+}
